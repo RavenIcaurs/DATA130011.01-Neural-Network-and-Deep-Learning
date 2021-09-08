@@ -4,7 +4,7 @@
 * Project1: [Self-Implemented Neural Network](https://github.com/TrueNobility303/numpy-neural-networks)
 * Project2: [Required](https://github.com/TrueNobility303/image-classification-CIFAR10) [Bonus](https://github.com/TrueNobility303/DessiLBI)
 * Project3: [Scene Text Recognition](https://github.com/TrueNobility303/scene-text-recognition)
-* Final Project: mainly includes the task of Rapheal Style Transfer  [CNN-Based Method](https://github.com/TrueNobility303/Raphael-style-transfer-CNN) [GAN-Based Method](https://github.com/TrueNobility303/Raphael-style-transfer-CycleGAN)
+* Final Project(Rapheal Style Transfer):  [CNN-Based Method](https://github.com/TrueNobility303/Raphael-style-transfer-CNN) [GAN-Based Method](https://github.com/TrueNobility303/Raphael-style-transfer-CycleGAN)
 
 ## Learning Path
 
