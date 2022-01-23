@@ -14,7 +14,7 @@ Some codes written when learning...
 * Playing Games with Rainbow <[Link](https://github.com/TrueNobility303/rainbow-cartpole)>
 * Comparison of Represenative Semanic Segmentation Networks <[Link](https://github.com/TrueNobility303/pytorch-segentation)>
 * Stuff and Nonsence from a LSTM Poet <[Link](https://github.com/TrueNobility303/lstm-poem)>
-* Nerual Doodle with VGG <[Link](https://github.com/TrueNobility303/gatys-style-tranfer)>
+* Neural Doodle with VGG <[Link](https://github.com/TrueNobility303/gatys-style-tranfer)>
 * GAN it! Amine Faces <[Link](https://github.com/TrueNobility303/GAN-face-generator)>
 * Mask-RCNN in Fudan <[Link](https://github.com/TrueNobility303/maskrcnn-PennFudan)>
 * 3D Computer Vision with PointNets <[Link](https://github.com/TrueNobility303/modelnet-pointnet)>
