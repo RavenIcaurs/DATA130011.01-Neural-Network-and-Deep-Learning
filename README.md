@@ -1,6 +1,9 @@
 # DATA130011.01-Neural-Network-and-Deep-Learning
 
 ## Course Project
+
+Click [Here](https://github.com/TrueNobility303/DATA130011.01-Neural-Network-and-Deep-Learning/tree/main/requirement) for requirements of projects.
+
 * Lab1：[Introduction to Pytorch](https://github.com/TrueNobility303/Machine-Learning-with-Pytorch)
 * Project1: [Self-Implemented Neural Network](https://github.com/TrueNobility303/numpy-neural-networks)
 * Project2 (Cifar10): [Required](https://github.com/TrueNobility303/image-classification-CIFAR10), [Bonus](https://github.com/TrueNobility303/DessiLBI)
