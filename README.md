@@ -19,3 +19,5 @@ Some codes written when learning...
 * Mask-RCNN in Fudan <[Link](https://github.com/TrueNobility303/maskrcnn-PennFudan)>
 * 3D Computer Vision with PointNets <[Link](https://github.com/TrueNobility303/modelnet-pointnet)>
 * A Self Implement of Region Proposal Networks <[Link](https://github.com/TrueNobility303/region-proposal-network)>
+
+Awwww~ I think you would also be interested in Computer Vision of [DATA130051.01](https://github.com/TrueNobility303/DATA130051.01-Computer-Vision)
